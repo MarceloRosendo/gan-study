@@ -1,0 +1,15 @@
+artifact_uri: /home/madmarx/Documents/git/gan-study/.mlflow/0/8a62d79bfebe403784a05efb029ebc9c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a62d79bfebe403784a05efb029ebc9c
+run_name: DCGAN-6442d372-8715-4770-9a01-da354069e7bb
+run_uuid: 8a62d79bfebe403784a05efb029ebc9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742756060773
+status: 1
+tags: []
+user_id: MarceloRosendo

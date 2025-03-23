@@ -1,0 +1,8 @@
+numpy
+matplotlib
+mlflow
+zipfile
+torch
+torchvision
+
+tqdm
